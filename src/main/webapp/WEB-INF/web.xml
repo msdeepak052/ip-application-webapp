@@ -2,16 +2,5 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
-
-    <servlet>
-        <servlet-name>IPDisplayServlet</servlet-name>
-        <servlet-class>com.example.servlet.IPDisplayServlet</servlet-class>
-    </servlet>
-
-    <servlet-mapping>
-        <servlet-name>IPDisplayServlet</servlet-name>
-        <url-pattern>/ipdisplay</url-pattern>
-    </servlet-mapping>
-
 </web-app>
 
